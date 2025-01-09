@@ -10,7 +10,7 @@
         <mxCell id="gIh29v_b7M5LJK4Dhc74-5" value="ssh" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="gIh29v_b7M5LJK4Dhc74-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="184.5" as="sourcePoint" />
-            <mxPoint x="420" y="184.5" as="targetPoint" />
+            <mxPoint x="460" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gIh29v_b7M5LJK4Dhc74-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="gIh29v_b7M5LJK4Dhc74-3">
@@ -22,11 +22,17 @@
         <mxCell id="gIh29v_b7M5LJK4Dhc74-3" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="135" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gIh29v_b7M5LJK4Dhc74-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="420" y="60" width="270" height="270" as="geometry" />
-        </mxCell>
         <mxCell id="gIh29v_b7M5LJK4Dhc74-8" value="Azure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIh29v_b7M5LJK4Dhc74-11" value="Cyclecloud server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="464" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIh29v_b7M5LJK4Dhc74-13" value="&lt;div&gt;Schedueler&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="170" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIh29v_b7M5LJK4Dhc74-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="590" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
